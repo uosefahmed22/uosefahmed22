@@ -1,87 +1,66 @@
-<h1 align="center"><b>Hi , I'm Yousef Ahmed</b></h1>
-<!--  -->A
+## Hi there, I'm Yusuf 👋
+
+I'm a passionate back-end developer from Egypt with a focus on building scalable and efficient APIs using .NET technologies. I enjoy solving complex problems and continuously learning new skills in the world of software development.
+
+- 🔭 I’m currently working on [BNS360](https://github.com/uosefahmed22/BNS360), a business and craftsmen review system.
+- 🌱 I’m currently learning **Docker, Angular, and Unit Testing**.
+- 💬 Ask me about **C#, ASP.NET Core, Entity Framework, SQL Server**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uosefahmed22).
+- ⚡ Fun fact: I’m deeply interested in Islamic history and genealogy.
+
+---
+
+### 🛠 Tech Stack
+
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=entityframework)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+
+---
+
+### 🚀 Projects
+
+Here are some of the projects I’ve worked on:
+
+- **[GazlVolunteer Management Platform](https://github.com/uosefahmed22/GazlVolunteery)**  
+  A volunteer management platform with real-time notifications and map integration.  
+  - Role: Full-stack Developer
+  - Technologies: .NET 8, SQL Server, SignalR, Google Maps API.
+
+- **[BNS360 Reviews API](https://github.com/uosefahmed22/BNS360)**  
+  A business and craftsmen review system with rating and feedback features.  
+  - Role: Back-end Developer
+  - Technologies: C#, ASP.NET Core, Entity Framework, SQL Server, JWT.
+
+- **[Talabat Project](https://github.com/uosefahmed22/talabat.solution)**  
+  E-commerce platform with Stripe integration and Redis caching for optimal performance.  
+  - Role: Back-end Developer
+  - Technologies: ASP.NET Core, Stripe, Redis, SQL Server.
+
+- **[Gym Management System API](https://github.com/uosefahmed22/GymMangamentSystem)**  
+  A comprehensive API for managing gym operations with user roles, BMI tracking, and Cloudinary integration.  
+  - Role: Back-end Developer
+  - Technologies: C#, ASP.NET Core, Entity Framework, JWT, Cloudinary.
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Backend+Developer+with+.NET%3B;Passionate+About+Learning+New+Things"></a>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=uosefahmed22&show_icons=true&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uosefahmed22&layout=compact&theme=radical" />
 </p>
 
-<br>
+---
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **About me**
+### 🤝 Let's Connect
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Backend Developer with .NET
-- Love to learn new things and improve my skills
-- Currently focusing on backend technologies
-
-<br><br>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **Skills**
-
-<br>
+Feel free to reach out to me through any of the platforms below:
 
 <p align="center">
-
-- **Languages**:
-    
-    ![C#](https://img.shields.io/badge/C%23%20-%232370ED.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL%20-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-<br>   
-    
-- **Backend Development**:
-
-   ![ASP.NET](https://img.shields.io/badge/ASP.NET%20-%2314354C.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%20-%231572B6.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-
-<br>
-
-- **Database**:
-
-    ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-FCC624?style=for-the-badge&logo=dot-net&logoColor=black)
-    ![SQL Server](https://img.shields.io/badge/SQL%20Server-FCC624?style=for-the-badge&logo=microsoft-sql-server&logoColor=black)
-
-<br>
-
-- **Tools & Other**:
-
-    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-
+  <a href="https://linkedin.com/in/uosefahmed22"><img src="https://img.shields.io/badge/-Yusuf%20Ahmed-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-your--email@example.com-gray?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **GitHub Stats**
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/uosefahmed22/">
-  <img src="https://github-readme-stats.vercel.app/api?username=uosefahmed22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uosefahmed22&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="uosefahmed22"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **Let's Connect
