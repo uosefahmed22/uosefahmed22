@@ -3,7 +3,6 @@
 <p>I'm a passionate back-end developer from Egypt, focused on building scalable and efficient APIs using .NET technologies. I enjoy solving complex problems and continuously learning new skills in software development.</p>
 
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/uosefahmed22/BNS360">BNS360</a>, a business and craftsmen review system.</li>
   <li>🌱 I’m currently learning <strong>Docker, Angular, and Unit Testing</strong>.</li>
   <li>💬 Ask me about <strong>C#, ASP.NET Core, Entity Framework, SQL Server</strong>.</li>
   <li>📫 You can reach me on <a href="https://www.linkedin.com/in/uosefahmed22">LinkedIn</a> or through <a href="https://uosefahmed22.github.io/">my website</a>.</li>
@@ -29,7 +28,6 @@
 
 #### Databases
 <img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver"/>&nbsp;
-<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>&nbsp;
 
 #### Tools & Platforms
 <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>&nbsp;
