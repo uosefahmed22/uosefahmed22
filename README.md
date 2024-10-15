@@ -1,4 +1,4 @@
-## Hi there, I'm Yusuf 👋
+## Hi there, I'm Uossef 👋
 
 <p>I'm a passionate back-end developer from Egypt, focused on building scalable and efficient APIs using .NET technologies. I enjoy solving complex problems and continuously learning new skills in software development.</p>
 
@@ -51,7 +51,7 @@
 <p>Here are some of the projects I’ve worked on:</p>
 
 <ul>
-  <li><strong><a href="https://github.com/uosefahmed22/GazlVolunteery">Gazl Volunteer Management Platform</a></strong><br>
+  <li><strong><a href="https://github.com/uosefahmed22/GazlVolunteer">Gazl Volunteer Management Platform</a></strong><br>
     A volunteer management platform with real-time notifications and map integration.<br>
     - Role: Full-stack Developer<br>
     - Technologies: .NET 8, SQL Server, SignalR, Google Maps API.
