@@ -1,6 +1,5 @@
-<div align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1MuwDZTUMiRvFeF60unxyg22ylRLLU9Ct" alt="Youssef Ahmed Banner" style="width: 100%; max-width: 1200px;" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Youssef%20Ahmed&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Full%20Stack%20Developer%20(.NET%20%26%20Angular)&descSize=30&descAlignY=85&section=header" />
+
 I'm Youssef Ahmed, a dedicated .NET developer with two years of hands-on experience in building robust web applications. My journey in software development has equipped me with a strong foundation in backend development using the .NET framework, complemented by frontend experience with Angular.
 
 I focus on creating full-stack web applications that deliver reliable and efficient solutions. My technical expertise primarily includes C#, .NET Core, and SQL, along with frontend technologies such as Angular, TypeScript, and HTML/CSS. As someone who is passionate about continuous learning, I've successfully developed multiple projects that demonstrate my ability to implement end-to-end solutions. My collaborative approach and enthusiasm for problem-solving make me a valuable team player, always eager to learn from colleagues while contributing my knowledge to achieve project goals.
