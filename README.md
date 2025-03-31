@@ -23,13 +23,8 @@ I focus on creating full-stack web applications that deliver reliable and effici
 ![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,azure,docker,postman,git,github,powershell,bash)
 
 ### Databases & Storage
-![Databases](https://skillicons.dev/icons?i=mysql,sqlserver,mongodb,redis)
+![Databases](https://skillicons.dev/icons?i=sqlserver,mongodb,redis)
 
-### Testing & Documentation
-![Testing](https://skillicons.dev/icons?i=jest,selenium,markdown)
-
-### Additional Tools
-![Additional](https://skillicons.dev/icons?i=nginx,kubernetes,jenkins,grafana)
 ## 📊 GitHub Statistics
 
 <div align="center">
