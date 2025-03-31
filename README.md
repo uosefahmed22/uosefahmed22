@@ -16,8 +16,14 @@ I focus on creating full-stack web applications that deliver reliable and effici
 
 ## 💻 Technical Skills
 
-### 🛠️ Primary Stack & Tools
-![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,visualstudio,vscode,azure,docker,postman,git,github,mysql,sqlserver)
+### Primary Stack
+![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap)
+
+### Development Tools
+![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,azure,docker,postman,git,github)
+
+### Databases & Storage
+![Databases](https://skillicons.dev/icons?i=mysql,sqlserver)
 
 ### 🔧 Detailed Technical Expertise
 
