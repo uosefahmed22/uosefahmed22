@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Youssef%20Ahmed&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20.NET%20Developer&descSize=30&descAlignY=85&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Youssef%20Ahmed&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Full%20Stack%20Developer%20(.NET%20and%20Angular)&descSize=30&descAlignY=85&section=header" />
 
 I'm Youssef Ahmed, a dedicated .NET developer with two years of hands-on experience in building robust web applications. My journey in software development has equipped me with a strong foundation in backend development using the .NET framework, complemented by frontend experience with Angular.
 
