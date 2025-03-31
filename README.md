@@ -1,104 +1,38 @@
-## Hi there, I'm Uossef 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Satria%20Bahari&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20Mobile%20%20Developer&descSize=30&descAlignY=85&section=header" /> 
 
-<p>I'm a passionate back-end developer from Egypt, focused on building scalable and efficient APIs using .NET technologies. I enjoy solving complex problems and continuously learning new skills in software development.</p>
+I'm Youssef Ahmed, a dedicated .NET developer with two years of hands-on experience in building robust web applications. My journey in software development has equipped me with a strong foundation in backend development using the .NET framework, complemented by frontend experience with Angular.
 
-<ul>
-  <li>🌱 I’m currently learning <strong>Docker, Angular, and Unit Testing</strong>.</li>
-  <li>💬 Ask me about <strong>C#, ASP.NET Core, Entity Framework, SQL Server</strong>.</li>
-  <li>📫 You can reach me on <a href="https://www.linkedin.com/in/uosefahmed22">LinkedIn</a> or through <a href="https://uosefahmed22.github.io/">my website</a>.</li>
-  <li>⚡ Fun fact: I’m deeply interested in Islamic history and genealogy.</li>
-</ul>
+I focus on creating full-stack web applications that deliver reliable and efficient solutions. My technical expertise primarily includes C#, .NET Core, and SQL, along with frontend technologies such as Angular, TypeScript, and HTML/CSS. As someone who is passionate about continuous learning, I've successfully developed multiple projects that demonstrate my ability to implement end-to-end solutions. My collaborative approach and enthusiasm for problem-solving make me a valuable team player, always eager to learn from colleagues while contributing my knowledge to achieve project goals.
 
----
+[![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:uosefahmed0022@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/uossef_agag) 
+[![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-ahmed-175ab4268/) 
+[![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/uosefahmed22)
+[![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/uosefahmed22)
 
-### 🛠 Tech Stack
 
-<p>Here are some of the technologies and tools I’ve worked with:</p>
+### Skills
 
-#### Programming Languages
-<img src="https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp"/>&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp;
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"/>&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3"/>&nbsp;
+![My Skills](https://skillicons.dev/icons?perline=12&i=html,css,bootstrap,js,ts,angular,cs,dotnet,visualstudio,vscode,git,github,mysql,sqlserver)
+### 🛠️ Tech Stack & Development Environment
 
-#### Frameworks & Libraries
-<img src="https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet"/>&nbsp;
-<img src="https://img.shields.io/badge/-Entity%20Framework-05122A?style=flat&logo=entityframework"/>&nbsp;
-<img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>&nbsp;
+#### Languages & Frameworks
+![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap)
+
+#### Development & Cloud Tools
+![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,azure,docker,postman,git,github)
 
 #### Databases
-<img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver"/>&nbsp;
+![Databases](https://skillicons.dev/icons?i=mysql,sqlserver)
 
-#### Tools & Platforms
-<img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker"/>&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>&nbsp;
-<img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis"/>&nbsp;
-<img src="https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudinary"/>&nbsp;
 
-#### Other Skills
-<ul>
-  <li><strong>Problem Solving</strong></li>
-  <li><strong>Team Collaboration</strong></li>
-  <li><strong>Time Management</strong></li>
-  <li><strong>Unit Testing</strong></li>
-</ul>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=react&show_icons=true&)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=react&card_width=470)
 
-### 🚀 Projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=react)
 
-<p>Here are some of the projects I’ve worked on:</p>
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=react)
 
-<ul>
-  <li><strong><a href="https://github.com/uosefahmed22/GazlVolunteer">Gazl Volunteer Management Platform</a></strong><br>
-    A volunteer management platform with real-time notifications and map integration.<br>
-    - Role: Full-stack Developer<br>
-    - Technologies: .NET 8, SQL Server, SignalR, Google Maps API.
-  </li>
-  <li><strong><a href="https://github.com/uosefahmed22/BNS360">BNS360 Reviews API</a></strong><br>
-    A business and craftsmen review system with rating and feedback features.<br>
-    - Role: Back-end Developer<br>
-    - Technologies: C#, ASP.NET Core, Entity Framework, SQL Server, JWT.
-  </li>
-  <li><strong><a href="https://github.com/uosefahmed22/talabat.solution">Talabat Project</a></strong><br>
-    An e-commerce platform with Stripe integration and Redis caching for optimal performance.<br>
-    - Role: Back-end Developer<br>
-    - Technologies: ASP.NET Core, Stripe, Redis, SQL Server.
-  </li>
-  <li><strong><a href="https://github.com/uosefahmed22/GymMangamentSystem">Gym Management System API</a></strong><br>
-    A comprehensive API for managing gym operations with user roles, BMI tracking, and Cloudinary integration.<br>
-    - Role: Back-end Developer<br>
-    - Technologies: C#, ASP.NET Core, Entity Framework, JWT, Cloudinary.
-  </li>
-</ul>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=uosefahmed22&show_icons=true&theme=radical" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uosefahmed22&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/yousef-ahmed-175ab4268">
-    <img src="https://img.shields.io/badge/-Yusuf%20Ahmed-blue?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:uosefahmed0022@gmail.com">
-    <img src="https://img.shields.io/badge/-uosefahmed0022@gmail.com-gray?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://uosefahmed22.github.io/">
-    <img src="https://img.shields.io/badge/-My%20Website-darkgreen?style=flat&logo=Google%20Chrome&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  📱 <strong>Phone:</strong> 01032043047 <br>
-  📍 <strong>Location:</strong> Benisef, Egypt
-</p>
