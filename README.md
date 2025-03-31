@@ -14,7 +14,7 @@ I focus on creating full-stack web applications that deliver reliable and effici
 ### Skills
 
 ![My Skills](https://skillicons.dev/icons?perline=12&i=html,css,bootstrap,js,ts,angular,cs,dotnet,visualstudio,vscode,git,github,mysql,sqlserver)
-### 🛠️ Tech Stack & Development Environment
+### 🛠️ Tech Stack & Developmaent Environment
 
 #### Languages & Frameworks
 ![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap)
@@ -26,13 +26,13 @@ I focus on creating full-stack web applications that deliver reliable and effici
 ![Databases](https://skillicons.dev/icons?i=mysql,sqlserver)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabahari&theme=react&show_icons=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=uosefahmed22&theme=react&show_icons=true&)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satriabahari&theme=react&card_width=470)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uosefahmed22&theme=react&card_width=470)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satriabahari&card_width=495&langs_count=7&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uosefahmed22&card_width=495&langs_count=7&layout=compact&theme=react)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@satriabahari&langs_count=7&layout=compact&theme=react)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@uosefahmed22&langs_count=7&layout=compact&theme=react)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
 
