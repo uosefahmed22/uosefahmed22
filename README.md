@@ -17,37 +17,19 @@ I focus on creating full-stack web applications that deliver reliable and effici
 ## 💻 Technical Skills
 
 ### Primary Stack
-![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap)
+![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap,sass)
 
 ### Development Tools
-![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,azure,docker,postman,git,github)
+![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,azure,docker,postman,git,github,powershell,bash)
 
 ### Databases & Storage
-![Databases](https://skillicons.dev/icons?i=mysql,sqlserver)
+![Databases](https://skillicons.dev/icons?i=mysql,sqlserver,mongodb,redis)
 
-### 🔧 Detailed Technical Expertise
+### Testing & Documentation
+![Testing](https://skillicons.dev/icons?i=jest,selenium,markdown)
 
-#### Backend Development
-- C#, .NET Core, ASP.NET Core, Entity Framework Core
-- RESTful APIs, Microservices
-- SOLID Principles, Design Patterns
-
-#### Frontend Development
-- Angular, TypeScript, JavaScript
-- HTML5, CSS3, Bootstrap
-- Responsive Design
-
-#### Database Management
-- SQL Server, MySQL
-- Entity Framework Core
-- LINQ, Stored Procedures
-
-#### Development Tools & Platforms
-- Visual Studio, VS Code
-- Git, GitHub
-- Azure DevOps
-- Docker, Postman
-
+### Additional Tools
+![Additional](https://skillicons.dev/icons?i=nginx,kubernetes,jenkins,grafana)
 ## 📊 GitHub Statistics
 
 <div align="center">
