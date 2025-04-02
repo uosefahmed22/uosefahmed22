@@ -35,7 +35,7 @@ I focus on creating full-stack web applications that deliver reliable and effici
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uosefahmed22&card_width=495&langs_count=7&layout=compact&theme=react)
 
-[![Stperrakis wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uosefahmed22)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=uosefahmed22&layout=compact&theme=react&link=https://www.github.com/uosefahmed22/">
 
 </div>
 
