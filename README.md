@@ -29,13 +29,11 @@ I focus on creating full-stack web applications that deliver reliable and effici
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uosefahmed22&theme=react&show_icons=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=uosefahmed22&theme=react&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=uosefahmed22&theme=react&card_width=470)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uosefahmed22&card_width=495&langs_count=7&layout=compact&theme=react)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uosefahmed22&theme=react)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
 
 </div>
 
