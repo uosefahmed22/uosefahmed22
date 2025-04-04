@@ -27,8 +27,6 @@ I focus on creating full-stack web applications that deliver reliable and effici
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uosefahmed22&theme=react&show_icons=true)
