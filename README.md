@@ -1,18 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&text=Youssef%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=.NET%20Backend%20Developer&descSize=25&descAlignY=60&descColor=93c5fd&section=header" />
-
-<div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=.NET+Backend+Developer+%F0%9F%92%BB;Building+Scalable+APIs+%26+Web+Services+%F0%9F%9A%80;Clean+Architecture+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Cairo%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC+%7C+Open+to+Relocation+%F0%9F%8C%8D" alt="Typing SVG" /></a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Youssef%20Ahmed&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Full%20Stack%20Developer%20(.NET%20and%20Angular)&descSize=30&descAlignY=85&section=header" />
 
 ## 👨‍💻 About Me
 
-.NET Backend Developer with hands-on experience building scalable web APIs and e-commerce platforms using **C#**, **ASP.NET Core**, **Entity Framework**, and **SQL Server**. Delivered a freelance volunteer management system for a real client. Skilled in applying **Clean Architecture**, design patterns, and RESTful API best practices.
+I'm Youssef Ahmed, a dedicated .NET developer with two years of hands-on experience in building robust web applications. My journey in software development has equipped me with a strong foundation in backend development using the .NET framework, complemented by frontend experience with Angular.
 
-```yaml
-🎓 Education: BSc Computer Science - Beni Suef University (Very Good)
-📜 Training:  ITI Summer Training (120 Hours) - .NET Backend Developer
-📍 Location:  Cairo, Egypt
-🌍 Status:    Open to Relocation | ✅ Military Service Completed
-💼 Focus:     Backend Development | RESTful APIs | Clean Architecture
+I focus on creating full-stack web applications that deliver reliable and efficient solutions. My technical expertise primarily includes C#, .NET Core, and SQL, along with frontend technologies such as Angular, TypeScript, and HTML/CSS. As someone who is passionate about continuous learning, I've successfully developed multiple projects that demonstrate my ability to implement end-to-end solutions. My collaborative approach and enthusiasm for problem-solving make me a valuable team player, always eager to learn from colleagues while contributing my knowledge to achieve project goals.
+
+## 🤝 Connect with Me
+
+[![Mail Badge](https://img.shields.io/badge/-uosefahmed0022@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:uosefahmed0022@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@uossef_agag-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/uossef_agag) 
+[![Linkedin Badge](https://img.shields.io/badge/-yousef_ahmed-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-ahmed-175ab4268/) 
+[![](https://komarev.com/ghpvc/?username=uosefahmed22&color=blue&label=Profile%20Views)](https://github.com/uosefahmed22)
+[![](https://img.shields.io/github/followers/uosefahmed22?label=GitHub%20Followers)](https://github.com/uosefahmed22)
+
+## 💻 Technical Skills
+
+### Primary Stack
+![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap)
+
+### Development Tools
+![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,git,github)
+
+### Databases & Storage
+![Databases](https://skillicons.dev/icons?i=sqlserver,mongodb,redis)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=uosefahmed22&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=uosefahmed22&theme=react&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uosefahmed22&card_width=495&langs_count=7&layout=compact&theme=react)
+
+[![Youssef's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uosefahmed22)](https://github.com/uosefahmed22)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
