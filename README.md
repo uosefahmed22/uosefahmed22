@@ -118,6 +118,10 @@ Focus:        .NET Backend · Clean Architecture · Scalable APIs · System Desi
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uosefahmed22&card_width=495&langs_count=7&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="495" />
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=uosefahmed22&theme=react&hide_border=true&layout=compact&langs_count=7&card_width=495" alt="WakaTime Stats" width="495" />
+
 </div>
 
 ---
