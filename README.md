@@ -112,15 +112,15 @@ Focus:        .NET Backend · Clean Architecture · Scalable APIs · System Desi
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=uosefahmed22&theme=react&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="495" />
+<img src="https://github-readme-stats-orpin-omega-99.vercel.app/api?username=uosefahmed22&theme=react&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="495" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uosefahmed22&card_width=495&langs_count=7&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="495" />
+<img src="https://github-readme-stats-orpin-omega-99.vercel.app/api/top-langs/?username=uosefahmed22&card_width=495&langs_count=7&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="495" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=uosefahmed22&theme=react&hide_border=true&layout=compact&langs_count=7&card_width=495" alt="WakaTime Stats" width="495" />
+<img src="https://github-readme-stats-orpin-omega-99.vercel.app/api/wakatime?username=uosefahmed22&theme=react&hide_border=true&layout=compact&langs_count=7&card_width=495" alt="WakaTime Stats" width="495" />
 
 </div>
 
