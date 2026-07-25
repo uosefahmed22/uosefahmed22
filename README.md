@@ -36,34 +36,42 @@ Focus:        .NET Backend · Clean Architecture · Scalable APIs · System Desi
 
 <div align="center">
 
-#### Primary Stack
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap&theme=dark" alt="Primary Stack" />
+#### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,bootstrap&theme=dark" alt="Languages & Frameworks" />
 
 <br/><br/>
 
-#### Dev Tools
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,git,github&theme=dark" alt="Dev Tools" />
+#### Dev Tools & DevOps
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,git,github,githubactions&theme=dark" alt="Dev Tools & DevOps" />
 
 <br/><br/>
 
-#### Databases
+#### Databases & Caching
 <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Databases" />
 &nbsp;&nbsp;
-<code>SQL Server</code>
+<code>SQL Server</code> <code>Stored Procedures</code> <code>Indexing</code> <code>EF Core Migrations</code>
 
 <br/><br/>
 
+#### Frameworks & Libraries
+<code>ASP.NET Core Web API</code> <code>Minimal APIs</code> <code>EF Core</code> <code>ASP.NET MVC</code> <code>CQRS</code> <code>MediatR</code> <code>AutoMapper</code> <code>FluentValidation</code>
+
 #### Architecture & Principles
-<code>RESTful APIs</code> <code>Clean Architecture</code> <code>Onion Architecture</code> <code>Design Patterns</code> <code>SOLID Principles</code>
+<code>Clean Architecture</code> <code>Onion Architecture</code> <code>Repository & Unit of Work</code> <code>Design Patterns</code> <code>SOLID Principles</code> <code>Dependency Injection</code>
+
+#### Core Concepts
+<code>LINQ</code> <code>async/await</code> <code>Middleware</code> <code>Unit Testing</code>
 
 #### Security
 <code>JWT Authentication</code> <code>RBAC</code> <code>CSRF Protection</code> <code>Rate Limiting</code>
 
+#### API Docs & Messaging
+<code>Swagger/OpenAPI</code> <code>Scalar</code> <code>RabbitMQ</code> <code>SignalR</code> <code>gRPC</code>
+
 #### Services & Integrations
-<code>Cloudinary</code> <code>Stripe</code> <code>SMTP</code> <code>RabbitMQ</code> <code>gRPC</code>
+<code>Cloudinary</code> <code>Stripe</code> <code>SMTP</code> <code>Serilog</code> <code>CI/CD</code> <code>GitHub Actions</code>
 
 </div>
-
 ---
 
 ## 💼 Work Experience
