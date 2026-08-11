@@ -137,14 +137,12 @@ Led a four-person team and built the complete backend for a Beni Suef discovery 
 
 [View Repository](https://github.com/uosefahmed22/BNS360)
 
-  <div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=uosefahmed22&theme=react&hide_border=true&v=2"
-    alt="GitHub contribution streak"
-    width="495"
-  />
-</div>
-<br /><br />
+  ## GitHub Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=uosefahmed22&theme=react&hide_border=true" alt="GitHub contribution streak" width="495" />
+
 
 <img src="https://github-readme-stats-orpin-omega-99.vercel.app/api?username=uosefahmed22&theme=react&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" width="495" />
 
