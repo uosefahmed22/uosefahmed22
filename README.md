@@ -24,7 +24,7 @@ I am a **Junior .NET Backend Developer** and Computer Science graduate based in 
 
 ```yaml
 Education:  B.Sc. in Computer Science, Beni Suef University (2020-2024)
-GPA:        2.88/4.00 - Very Good
+GPA:        Very Good
 Training:   ITI .NET Backend Developer Track - 120 hours
 Location:   Cairo, Egypt
 Target:     Junior .NET Backend Developer / Graduate Software Engineer
