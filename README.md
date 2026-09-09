@@ -56,14 +56,6 @@ Target:     Junior .NET Backend Developer / Graduate Software Engineer
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,docker,git,github,postman,visualstudio,vscode&theme=dark" alt="Core development tools" />
 </div>
 
-## Testing Highlights
-
-| Project | Passing automated tests |
-| --- | ---: |
-| **ZadElealm** | **124 unit + 49 integration + 140 Angular = 313 tests** |
-| **Gym Management API** | **103 unit + 3 SQL Server/LocalDB integration = 106 tests** |
-| **Burgandy Store** | **19 unit + 1 SQL Server integration = 20 tests** |
-
 ## Freelance Experience
 
 ### Burgandy Store - Freelance Full-Stack .NET Developer
