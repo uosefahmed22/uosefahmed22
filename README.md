@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:3b82f6&height=200&section=header&text=Youssef%20Ahmed&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Junior%20.NET%20Backend%20Developer%20%7C%20Cairo,%20Egypt&descSize=18&descAlignY=55&descColor=93c5fd" width="100%" alt="Youssef Ahmed - Junior .NET Backend Developer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=760&height=90&lines=Building+tested+ASP.NET+Core+APIs;Paid+freelance+delivery+%26+team+leadership;106+automated+tests+in+the+Gym+Management+API;Open+to+Junior+%26+Fresh+Graduate+opportunities" alt="Backend development highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=820&height=90&lines=Building+secure+and+tested+ASP.NET+Core+APIs;Delivering+Angular+21+applications+with+real+API+integration;173+.NET+tests+%2B+140+Angular+tests+in+ZadElealm;Open+to+Junior+.NET+Backend+opportunities" alt="Development highlights" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=flat-square&logo=githubpages&logoColor=white)](https://uosefahmed22.github.io/)
@@ -14,17 +14,17 @@
 
 ## About Me
 
-I am a **Junior .NET Backend Developer** and Computer Science graduate based in Cairo, Egypt. I have delivered a paid freelance backend for a real client, coordinated a four-person product team, and built APIs used in real user pilots.
+I am a **Junior .NET Backend Developer** and Computer Science graduate based in Cairo, Egypt. I build secure, maintainable web applications with **ASP.NET Core, EF Core, SQL Server, and Angular**, backed by automated unit and integration tests.
 
-- Built backend systems with **ASP.NET Core, EF Core, SQL Server, Identity, JWT, and refresh tokens**.
-- Wrote **106 automated tests** for the Gym Management API: 103 unit tests and 3 SQL Server/LocalDB integration tests.
-- Developed products covering volunteer management, education, reservations, gym operations, and local discovery.
-- Comfortable with requirements gathering, backend deployment, authentication workflows, cloud integrations, and API documentation.
-- **Military service completed**; open to relocation and remote opportunities.
+- Delivered software for real clients and coordinated work across a four-person product team.
+- Built complete backend systems, MVC administration dashboards, and responsive Angular applications connected to real APIs.
+- Implemented authentication, authorization, refresh-token rotation, OTP recovery, background services, cloud media, email workflows, and CI pipelines.
+- Released projects to real user pilots, including **100+ users** on ZadElealm and **200+ registrations** on BNS360.
+- **Military service completed**; available for Junior .NET Backend, Graduate Software Engineer, relocation, and remote opportunities.
 
 ```yaml
 Education:  B.Sc. in Computer Science, Beni Suef University (2020-2024)
-GPA:        Very Good
+Grade:      Very Good
 Training:   ITI .NET Backend Developer Track - 120 hours
 Location:   Cairo, Egypt
 Target:     Junior .NET Backend Developer / Graduate Software Engineer
@@ -32,62 +32,88 @@ Target:     Junior .NET Backend Developer / Graduate Software Engineer
 
 ## Technical Skills
 
-<div align="center">
-
 ### Backend and Data
 
-`C#` `ASP.NET Core Web API` `ASP.NET Core MVC` `EF Core` `LINQ` `SQL Server` `Redis` `REST` `Swagger/OpenAPI`
+`C#` `ASP.NET Core Web API` `ASP.NET Core MVC` `EF Core` `LINQ` `SQL Server` `REST APIs` `Swagger/OpenAPI`
 
-### Security
+### Frontend
 
-`ASP.NET Core Identity` `JWT` `Refresh Tokens` `Token Revocation` `RBAC` `Email Confirmation` `OTP Password Reset`
+`Angular 21` `TypeScript` `JavaScript` `RxJS` `Signals` `Reactive Forms` `HTML5` `CSS3` `Responsive RTL UI` `API Integration`
 
-### Architecture and Patterns
+### Security and Architecture
 
-`Layered/N-Tier Architecture` `CQRS` `MediatR` `Repository` `Unit of Work` `Specification` `Dependency Injection` `SOLID`
+`ASP.NET Core Identity` `JWT` `Refresh Tokens` `RBAC` `CQRS` `MediatR` `Repository` `Unit of Work` `Specification` `Dependency Injection` `SOLID`
 
 ### Testing and Reliability
 
-`xUnit` `Unit Testing` `SQL Server/LocalDB Integration Testing` `EF Core InMemory` `Serilog` `Global Exception Handling` `Soft Delete`
+`xUnit` `Moq` `Vitest` `Unit Testing` `Integration Testing` `SQLite` `SQL Server/LocalDB` `Serilog` `Global Exception Handling`
 
 ### Tools and Integrations
 
-`Git` `GitHub` `Docker Compose` `Postman` `Cloudinary` `MailKit/SMTP` `QuestPDF` `AutoMapper` `Stripe`
+`Git` `GitHub` `GitHub Actions` `Docker Compose` `Postman` `Cloudinary` `MailKit/SMTP` `QuestPDF` `AutoMapper`
 
-<br />
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,docker,git,github,postman,visualstudio,vscode&theme=dark" alt="Core development tools" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,docker,git,github,postman,visualstudio,vscode&theme=dark" alt="Core development tools" />
 </div>
 
-## Work Experience
+## Testing Highlights
 
-<details open>
-<summary><b>GazlVolunteer - Freelance .NET Backend Developer & Team Lead</b> | Apr 2024 - Nov 2024</summary>
+| Project | Passing automated tests |
+| --- | ---: |
+| **ZadElealm** | **124 unit + 49 integration + 140 Angular = 313 tests** |
+| **Gym Management API** | **103 unit + 3 SQL Server/LocalDB integration = 106 tests** |
+| **Burgandy Store** | **19 unit + 1 SQL Server integration = 20 tests** |
 
-<br />
+## Freelance Experience
+
+### Burgandy Store - Freelance Full-Stack .NET Developer
+
+- Built and delivered a fashion reservation platform consisting of an **ASP.NET Core Web API**, **MVC admin dashboard**, and responsive **Angular 21 storefront**.
+- Implemented reservation lifecycle rules, filtering, pagination, discounts, customer penalties, background cancellation, and discount-expiration services.
+- Added **19 unit tests and one SQL Server integration test**, with GitHub Actions CI and Docker Compose support.
+- Delivered the application to the client; public launch is pending client-provided product photography.
+
+**Tech:** `.NET 10` `ASP.NET Core Web API/MVC` `Angular 21` `EF Core` `SQL Server` `xUnit` `Docker Compose` `GitHub Actions` `Cloudinary`
+
+[View Repository](https://github.com/uosefahmed22/Burgandy) | [Live Demo](https://burgandystore.pages.dev/)
+
+---
+
+### GazlVolunteer - Freelance .NET Backend Developer and Team Lead
 
 - Delivered and deployed a paid volunteer-management API for a Saudi client.
 - Gathered requirements and coordinated delivery across a four-person UI, frontend, design, and backend team.
 - Built **40+ endpoints** for volunteer opportunities and cases, civil associations, complaints, database-backed notifications, and three-role access control.
-- Implemented ASP.NET Core Identity, JWT access tokens, refresh-token revocation, email confirmation, OTP password reset, and Cloudinary image management.
-- Added **6 passing xUnit tests** for OTP behavior, API response filtering, and repository access-control rules.
+- Implemented Identity, JWT access tokens, refresh-token revocation, email confirmation, OTP password recovery, and Cloudinary media management.
 
 **Tech:** `.NET 8` `ASP.NET Core Web API` `EF Core` `SQL Server` `Identity` `JWT` `Cloudinary` `MailKit` `xUnit`
 
 [View Repository](https://github.com/uosefahmed22/GazlVolunteer)
 
-</details>
-
 ## Featured Projects
+
+### ZadElealm Educational Platform
+
+An Arabic-first Islamic education platform released to an initial pilot of **100+ users**. I built the complete platform: the ASP.NET Core API, Angular 21 student application, and secured MVC administration dashboard.
+
+- Responsive RTL student experience for authentication, course discovery, enrollment, favorites, learning progress, quizzes, timed assessments, leaderboards, achievements, reviews, support, and account management.
+- Onion-style layered backend with CQRS/MediatR, repositories, specifications, EF Core, JWT authentication, refresh-token rotation, RBAC, Cloudinary, and SMTP workflows.
+- Private PDF certificate generation and authenticated downloads using QuestPDF.
+- **173 passing .NET tests** across unit and integration suites, plus **140 passing Angular tests** with Vitest.
+
+**Tech:** `.NET 8` `ASP.NET Core Web API/MVC` `Angular 21` `TypeScript` `RxJS` `EF Core` `SQL Server` `CQRS` `MediatR` `xUnit` `Vitest` `QuestPDF`
+
+[View Repository](https://github.com/uosefahmed22/ZadElealm)
+
+---
 
 ### Gym Management API
 
-An independent ASP.NET Core API covering memberships, classes, attendance, workouts, nutrition plans, BMI tracking, feedback, and notifications.
+An ASP.NET Core API covering memberships, classes, attendance, workouts, nutrition plans, BMI tracking, feedback, and notifications.
 
 - **64 endpoints** across 14 controllers.
 - Identity, JWT, rotating refresh tokens, RBAC, email verification, and TOTP password recovery.
-- Serilog, centralized exception handling, and EF Core soft-delete interception.
+- Serilog, centralized exception handling, EF Core soft-delete interception, pagination, and performance indexes.
 - **106 automated tests:** 103 unit tests and 3 SQL Server/LocalDB integration tests.
 
 **Tech:** `.NET 8` `EF Core` `SQL Server` `Identity` `JWT` `Serilog` `Cloudinary` `MailKit` `xUnit`
@@ -96,37 +122,9 @@ An independent ASP.NET Core API covering memberships, classes, attendance, worko
 
 ---
 
-### ZadElealm Educational Platform
-
-A personal Islamic education platform released to an initial pilot of **100+ users**. I built the backend and MVC administration dashboard while collaborating with a frontend teammate.
-
-- Course and video-progress tracking, quizzes, leaderboards, reviews, and soft deletes.
-- Automated PDF certificate generation with QuestPDF.
-- CQRS/MediatR API with JWT, refresh-token rotation, RBAC, Cloudinary, and SMTP workflows.
-
-**Tech:** `.NET 8` `ASP.NET Core Web API/MVC` `EF Core` `SQL Server` `CQRS` `MediatR` `QuestPDF` `Cloudinary`
-
-[View Repository](https://github.com/uosefahmed22/ZadElealm)
-
----
-
-### Burgandy Store
-
-A fashion reservation platform built for a real store use case. I developed the .NET backend and MVC admin dashboard, then produced and integrated an AI-assisted Angular storefront.
-
-- Reservation lifecycles, pagination, filtering, discounts, and customer penalty rules.
-- Background workers for reservation cancellation and discount expiration.
-- Docker Compose setup and Cloudinary media management.
-
-**Tech:** `.NET 10` `ASP.NET Core Web API/MVC` `EF Core` `SQL Server` `Angular 21` `Docker Compose` `Cloudinary`
-
-[View Repository](https://github.com/uosefahmed22/Burgandy) | [Live Demo](https://burgandystore.pages.dev/)
-
----
-
 ### BNS360 - Graduation Project
 
-Led a four-person team and built the complete backend for a Beni Suef discovery platform covering businesses, craftspeople, properties, jobs, favorites, ratings, and reviews.
+Led a four-person team and built the backend for a local discovery platform covering businesses, craftspeople, properties, jobs, favorites, ratings, and reviews.
 
 - **73 API endpoints** with four-role authorization and refresh-token authentication.
 - Cloudinary media uploads and MailKit email workflows.
@@ -137,11 +135,11 @@ Led a four-person team and built the complete backend for a Beni Suef discovery 
 
 [View Repository](https://github.com/uosefahmed22/BNS360)
 
- ## GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://streak-stats.vercel.app/?user=uosefahmed22&theme=react&hide_border=true" alt="GitHub contribution streak" width="495" />
+<img src="https://streak-stats.demolab.com?user=uosefahmed22&theme=react&hide_border=true&v=2" alt="GitHub contribution streak" width="495" />
 
 <br /><br />
 
@@ -152,6 +150,7 @@ Led a four-person team and built the complete backend for a Beni Suef discovery 
 <img src="https://github-readme-stats-orpin-omega-99.vercel.app/api/top-langs/?username=uosefahmed22&card_width=495&langs_count=7&layout=compact&theme=react&hide_border=true" alt="Most used languages" width="495" />
 
 </div>
+
 ## Contact
 
 <div align="center">
